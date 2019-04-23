@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="editText" />
+    <string name="textView">CA MARCHE PAS</string>
+    <string name="button">Cliquez</string>
+    <string name="bottom_navigation_menu_recent">Recents</string>
+    <string name="bottom_navigation_menu_search">Search</string>
+    <string name="bottom_navigation_menu_settings">Settings</string>
+    <string name="bottom_navigation_menu_upload">Upload</string>
+</resources>
