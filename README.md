@@ -10,7 +10,9 @@ The project goal is to make an app which can communicate with the api.imgur.com
 
 
 
+Error faced :
 
+HTTP CORS Policy from Imgur Api and i don't how to solve it sometimes it happens and break the authentification
 
 
 
